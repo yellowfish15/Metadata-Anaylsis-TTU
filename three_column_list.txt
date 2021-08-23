@@ -1,0 +1,26 @@
+Attribute name            Data Type     # Of Attribute Values
+CLASS                     string        26548
+POSITION                  int           608
+COLUMN_ID                 int           25636
+DATE                      string        5
+DATE_COMMENT              string        5
+IDLUTILS                  string        5
+IDLUTILS_COMMENT          string        5
+TDIM1                     string        4
+TDIM1_COMMENT             string        4
+DRNAME                    string        3
+DRNAME_COMMENT            string        3
+SASVERSI                  string        5
+SASVERSI_COMMENT          string        5
+TDIM40                    string        1
+TDIM40_COMMENT            string        1
+TDIM41                    string        1
+TDIM41_COMMENT            string        1
+TDIM42                    string        1
+TDIM42_COMMENT            string        1
+TDIM43                    string        1
+TDIM43_COMMENT            string        1
+TDIM44                    string        1
+TDIM44_COMMENT            string        1
+TDIM45                    string        1
+TDIM45_COMMENT            string        1
